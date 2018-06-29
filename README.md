@@ -3,10 +3,6 @@ Climate sensitivity is a measure of the response of the global climate system to
 Climate sensitivity an other relevant stuff [well-explained here](http://news.mit.edu/2010/explained-climate-sensitivity).
 Emergent Constraints idea: ...
  
-## Emergent_Constraints
-[]
-We explore how CMIP5 models' ECS spread can be 'constrained' by different observable metrics. 
-
 ## Aim
 Find relevant emergent constraints and investigate their reliability. 
 
@@ -31,6 +27,8 @@ HadCRUT4 data set:
 Recent  developments  in  observational  near-surface  air  temperature  and  sea-surface  temperature analyses  are  combined  to  produce  HadCRUT4,  a  new data  set  of  global  and  regional  temperature evolution  from  1850  to  the  present.
 
 Time series are monthly, annual and decadally smoothed series for each ensemble member of the HadCRUT4 ensemble (100).
+
+We explore how CMIP5 models' ECS spread can be 'constrained' by different observable metrics. 
 
 
 ## Brief literature review 
