@@ -47,12 +47,18 @@ P. M. Cox, C. Huntingford, M. S. Williamson, _Emergent constraint on equilibrium
 
 ## Our results
 We successfully 
- * manipulated the available data from CMIP5 (15 models considered) and HadCRUT4 (download, de-trend, concatenate, analyse); 
+ * manipulated the available data from CMIP5 (15 models considered) and HadCRUT4 (download, de-trend, concatenate, analyze); 
  * replicated the results of Cox et. al. - see the code and the plots; 
  * explored the realiability of considering sea-land temperature as an emergent constraint. 
 
 
 ## Conclusions
+ * the _emergent constraints method_ is relevant when exploring the behaviour of the climate system 
+ 
+## Authors
+* Goodwin Gibbins
+* Lea Oljaca
+* Oana Lang 
 
 
 
