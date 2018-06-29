@@ -1,4 +1,7 @@
 ## Why shall we care about emergent constraints in climate sensitivity? 
+
+__The future of our climate system depends on asking the right questions. One of these questions could be: What are the most relevant emergent constraints for ECS?__
+
 ### Climate sensitivity
 A measure of the response of the global climate system to a certain forcing e.g. a measure of the change (increase) in global mean temperature when there is a doubling of the atmospheric $ CO_2 $ concentration. IPCC: the value is around 3 degrees Celsius, depending on positive and negative feedback effects (sea ice, water vapour, clouds, greenhouse gases); without feedback effect the change would be around 1 degree Celsius. In the long run the increase could be greater than 3 degrees since the $CO_2$ concentration can be more than double, while in the short run the warming could be less due to the thermal inertia of the ocean. 
 
@@ -36,6 +39,8 @@ We explore how CMIP5 models' ECS spread can be 'constrained' by different observ
 
 
 ## Brief literature review 
+
+
 
 
 ## Our results
