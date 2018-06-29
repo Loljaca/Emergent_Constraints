@@ -1,14 +1,14 @@
 ## Why shall we care about emergent constraints in climate sensitivity? 
-Climate sensitivity is a measure of the response of the global climate system to a certain forcing e.g. a measure of the change (increase) in global mean temperature when there is a doubling of the atmospheric CO2 concentration. IPCC: the value is around 3 degrees Celsius, depending on positive and negative feedback effects (sea ice, water vapour, clouds, greenhouse gases); without feedback effect the change would be around 1 degree Celsius. In the long run the increase could be greater than 3 degrees since the CO2 concentration can be more than double, while in the short run the warming could be less due to the thermal inertia of the ocean. 
+__Climate sensitivity__ is a measure of the response of the global climate system to a certain forcing e.g. a measure of the change (increase) in global mean temperature when there is a doubling of the atmospheric CO2 concentration. IPCC: the value is around 3 degrees Celsius, depending on positive and negative feedback effects (sea ice, water vapour, clouds, greenhouse gases); without feedback effect the change would be around 1 degree Celsius. In the long run the increase could be greater than 3 degrees since the CO2 concentration can be more than double, while in the short run the warming could be less due to the thermal inertia of the ocean. 
 
-\mathbf{Climate sensitivity} an other relevant stuff well-explained [here](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/) and [here](http://news.mit.edu/2010/explained-climate-sensitivity).
+Climate sensitivity and other relevant stuff well-explained [here](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/) and [here](http://news.mit.edu/2010/explained-climate-sensitivity).
 
-\mathbf{Emergent constraints}: ...
+__Emergent constraints__: ...
  
 ## Aim
-Find relevant emergent constraints and investigate their reliability. 
+__Find relevant emergent constraints and investigate their reliability.__
 
-Particular case: global mean temperature variability. Reference: P. M. Cox, C. Huntingford, M. S. Williamson, Emergent constraint on equilibrium climate sensitivity from global temperature variability, Nature, 2018. 
+Particular case: global mean temperature variability. Reference: P. M. Cox, C. Huntingford, M. S. Williamson, _Emergent constraint on equilibrium climate sensitivity from global temperature variability_, Nature, 2018. 
 
 Exploration: sea-land temperature variability. 
 
