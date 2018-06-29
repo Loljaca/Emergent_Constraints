@@ -6,7 +6,7 @@ __The future of our climate system depends on asking the right questions. One of
 A measure of the response of the global climate system to a certain forcing e.g. a measure of the change (increase) in global mean temperature when there is a doubling of the atmospheric CO2 concentration. IPCC: the value is around 3 degrees Celsius, depending on positive and negative feedback effects (sea ice, water vapour, clouds, greenhouse gases); without feedback effect the change would be around 1 degree Celsius. In the long run the increase could be greater than 3 degrees since the CO2 concentration can be more than double, while in the short run the warming could be less due to the thermal inertia of the ocean (see details [here](http://news.mit.edu/2010/explained-climate-sensitivity)). 
 
 ### Emergent constraints
-Reducing uncertainties in climate change projections $\longleftrightarrow$ reducing the most influential uncertainties in different climate models. [Approach](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/): identify a relationship = _emergent constraint_ between an observable variable $$A$$ (_predictor_) and the inter-model responses B to a radiative perturbation. Observed values of A are used to __constrain__ the responses B. Weighted average of the models: difference between a model ouput for A and the observed value $\rightarrow$ outliers. Reliability: check the physical mechanisms underlying the above relationship, observation errors and spread etc. 
+Reducing uncertainties in climate change projections $\longleftrightarrow$ reducing the most influential uncertainties in different climate models. [Approach](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/): identify a relationship = _emergent constraint_ between an observable variable $$A$$ (_predictor_) and the inter-model responses B to a radiative perturbation. Observed values of A are used to __constrain__ the responses B. Weighted average of the models: difference between a model ouput for A and the observed value $\rightarrow$ outliers. Reliability: check the physical mechanisms underlying the above relationship (Hasselman model in our case), observation errors and spread etc. 
  
 ## Aim
 __Find relevant emergent constraints and investigate their reliability.__
@@ -38,12 +38,11 @@ We explore how CMIP5 models' ECS spread can be 'constrained' by different observ
 
 ## Brief literature review 
 P. M. Cox, C. Huntingford, M. S. Williamson, _Emergent constraint on equilibrium climate sensitivity from global temperature variability_, [Nature](https://www.nature.com/articles/nature25450), 2018: 
-* emergent constraint:  variability of global mean temperature 
+* propsed observable:  variability of global mean temperature 
 * consider _Hasselman model_ for the variation in global mean temperature in response to a radiative forcing 
 * 16CMIP5 models, output compared to data from HadCRUT4, anomalies relative to the time-interval 1961-1990
 * de-trended data 
-* 
-
+* emergent constraint: linear regression across 16 CMIP5 models between ECS and the metric for (de-trended) global temperature variability.  
 
 
 ## Our results
