@@ -39,8 +39,9 @@ We explore how CMIP5 models' ECS spread can be 'constrained' by different observ
 
 
 ## Brief literature review 
+P. M. Cox, C. Huntingford, M. S. Williamson, _Emergent constraint on equilibrium climate sensitivity from global temperature variability_, [Nature](https://www.nature.com/articles/nature25450), 2018: 
 * emergent constraint:  variability of global mean temperature 
-* consider the _Hasselman model_ for the variation in global mean temperature in response to a radiative forcing 
+* consider _Hasselman model_ for the variation in global mean temperature in response to a radiative forcing 
 * 16CMIP5 models, output compared to data from HadCRUT4, anomalies relative to the time-interval 1961-1990
 
 
