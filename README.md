@@ -1,9 +1,9 @@
 ## Why shall we care about emergent constraints in climate sensitivity? 
-__Climate sensitivity__ is a measure of the response of the global climate system to a certain forcing e.g. a measure of the change (increase) in global mean temperature when there is a doubling of the atmospheric CO2 concentration. IPCC: the value is around 3 degrees Celsius, depending on positive and negative feedback effects (sea ice, water vapour, clouds, greenhouse gases); without feedback effect the change would be around 1 degree Celsius. In the long run the increase could be greater than 3 degrees since the CO2 concentration can be more than double, while in the short run the warming could be less due to the thermal inertia of the ocean. 
+__Climate sensitivity__ is a measure of the response of the global climate system to a certain forcing e.g. a measure of the change (increase) in global mean temperature when there is a doubling of the atmospheric $CO_2$ concentration. IPCC: the value is around 3 degrees Celsius, depending on positive and negative feedback effects (sea ice, water vapour, clouds, greenhouse gases); without feedback effect the change would be around 1 degree Celsius. In the long run the increase could be greater than 3 degrees since the $CO_2$ concentration can be more than double, while in the short run the warming could be less due to the thermal inertia of the ocean. 
 
-Climate sensitivity and other relevant stuff well-explained [here](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/) and [here](http://news.mit.edu/2010/explained-climate-sensitivity).
+__Emergent constraints__: reducing uncertainties in climate change projections $\longleftrightarrow$ reducing the most influential uncertainties in different climate models. [Approach](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/): identify a relationship = [_emergent constraint](https://link.springer.com/article/10.1007/s40641-015-0027-1)_ between an observable variable $A$ (_predictor_) and the inter-model responses $B$ to a radiative perturbation. Observed values of $A$ are used to __constrain__ the responses $B$. Weighted average of the models: difference between a model ouput for $A$ and the observed value $\rightarrow$ outliers. Reliability: check the physical mechanisms underlying the above relationship, observation errors and spread etc. 
 
-__Emergent constraints__: ...
+Climate sensitivity, emergent constraints, and other relevant stuff well-explained [here](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/) and [here](http://news.mit.edu/2010/explained-climate-sensitivity).
  
 ## Aim
 __Find relevant emergent constraints and investigate their reliability.__
@@ -28,7 +28,6 @@ CMIP5 ([Coupled Model Intercomparison Project 5](https://esgf-node.llnl.gov/proj
 
 HadCRUT4 ([Met Office Hadley Centre Observations](https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html)) data set: 
 Recent  developments  in  observational  near-surface  air  temperature  and  sea-surface  temperature analyses  are  combined  to  produce  HadCRUT4,  a  new data  set  of  global  and  regional  temperature evolution  from  1850  to  the  present.
-
 Time series are monthly, annual and decadally smoothed series for each ensemble member of the HadCRUT4 ensemble (100).
 
 We explore how CMIP5 models' ECS spread can be 'constrained' by different observable metrics. 
