@@ -1,7 +1,9 @@
 ## Why shall we care about emergent constraints in climate sensitivity? 
 Climate sensitivity is a measure of the response of the global climate system to a certain forcing e.g. a measure of the change (increase) in global mean temperature when there is a doubling of the atmospheric CO2 concentration. IPCC: the value is around 3 degrees Celsius, depending on positive and negative feedback effects (sea ice, water vapour, clouds, greenhouse gases); without feedback effect the change would be around 1 degree Celsius. In the long run the increase could be greater than 3 degrees since the CO2 concentration can be more than double, while in the short run the warming could be less due to the thermal inertia of the ocean. 
-Climate sensitivity an other relevant stuff [well-explained here](http://news.mit.edu/2010/explained-climate-sensitivity).
-Emergent Constraints idea: ...
+
+\mathbf{Climate sensitivity} an other relevant stuff well-explained [here](http://climate-dynamics.org/reducing-uncertainties-in-climate-projections-with-emergent-constraints-part-1-concept/) and [here](http://news.mit.edu/2010/explained-climate-sensitivity).
+
+\mathbf{Emergent constraints}: ...
  
 ## Aim
 Find relevant emergent constraints and investigate their reliability. 
@@ -22,8 +24,9 @@ Step 3: Use the data to reproduce already validated experiments.
 Step 4: Elaborate a strategy for further explorations. 
 
 ## Methodology
-CMIP5([Coupled Model Intercomparison Project 5](https://esgf-node.llnl.gov/projects/cmip5/)):  experimental protocol for studying coupled atmosphere-ocean general circulation models which allows for a systematic analysis in terms of model diagnosis, comparison, model validation.
-HadCRUT4 data set: 
+CMIP5 ([Coupled Model Intercomparison Project 5](https://esgf-node.llnl.gov/projects/cmip5/)):  experimental protocol for studying coupled atmosphere-ocean general circulation models which allows for a systematic analysis in terms of model diagnosis, comparison, model validation.
+
+HadCRUT4 ([Met Office Hadley Centre Observations](https://www.metoffice.gov.uk/hadobs/hadcrut4/index.html)) data set: 
 Recent  developments  in  observational  near-surface  air  temperature  and  sea-surface  temperature analyses  are  combined  to  produce  HadCRUT4,  a  new data  set  of  global  and  regional  temperature evolution  from  1850  to  the  present.
 
 Time series are monthly, annual and decadally smoothed series for each ensemble member of the HadCRUT4 ensemble (100).
